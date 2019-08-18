@@ -60,3 +60,11 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem "better_errors", "~> 2.5"
+
+gem "simplecov", "~> 0.17.0"
+
+gem "rspec", "~> 3.8"
+
+gem "simplecov-console", "~> 0.5.0"
