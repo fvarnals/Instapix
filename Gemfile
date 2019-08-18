@@ -68,3 +68,5 @@ gem "simplecov", "~> 0.17.0"
 gem "rspec", "~> 3.8"
 
 gem "simplecov-console", "~> 0.5.0"
+
+gem "simple_form", "~> 4.1"
